@@ -1,0 +1,28 @@
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Core.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.csprojAssemblyReference.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.AssemblyInfoInputs.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.AssemblyInfo.cs
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.deps.json
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Core.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.csproj.CopyComplete
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.deps.json
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Core.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Core.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.csprojAssemblyReference.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.AssemblyInfoInputs.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.AssemblyInfo.cs
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.csproj.CopyComplete
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.DataAccess\obj\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.pdb

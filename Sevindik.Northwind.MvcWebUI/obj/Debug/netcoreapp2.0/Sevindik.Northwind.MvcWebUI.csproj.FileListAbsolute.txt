@@ -1,0 +1,40 @@
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.deps.json
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.runtimeconfig.json
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.runtimeconfig.dev.json
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.csproj.CoreCompileInputs.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.AssemblyInfoInputs.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.AssemblyInfo.cs
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Core.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Business.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Core.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Business.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.csprojAssemblyReference.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.csproj.CopyComplete
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.deps.json
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.runtimeconfig.json
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.runtimeconfig.dev.json
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Core.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Business.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Core.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Business.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\bin\Debug\netcoreapp2.0\Sevindik.Northwind.DataAccess.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.csprojAssemblyReference.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.csproj.CoreCompileInputs.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.AssemblyInfoInputs.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.AssemblyInfo.cs
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.csproj.CopyComplete
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.MvcWebUI\obj\Debug\netcoreapp2.0\Sevindik.Northwind.MvcWebUI.pdb

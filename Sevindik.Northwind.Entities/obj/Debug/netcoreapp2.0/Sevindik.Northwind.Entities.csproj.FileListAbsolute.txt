@@ -1,0 +1,28 @@
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.deps.json
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Core.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Core.pdb
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.csprojAssemblyReference.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.csproj.CoreCompileInputs.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.AssemblyInfoInputs.cache
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.AssemblyInfo.cs
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.csproj.CopyComplete
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\Net Core Engin Demirog\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.deps.json
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Core.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Sevindik.Core.pdb
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\bin\Debug\netcoreapp2.0\Microsoft.EntityFrameworkCore.xml
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.csprojAssemblyReference.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.csproj.CoreCompileInputs.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.AssemblyInfoInputs.cache
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.AssemblyInfo.cs
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.csproj.CopyComplete
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.dll
+D:\FS-Yazılım Notları\UdemyEgitimleri\Engin Demirog\NetCore\Sevindik\Sevindik.Northwind.Entities\obj\Debug\netcoreapp2.0\Sevindik.Northwind.Entities.pdb

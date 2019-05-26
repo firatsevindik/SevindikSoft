@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Sevindik.Core\Sevindik.Core.csproj" />
+    <ProjectReference Include="..\Sevindik.Northwind.DataAccess\Sevindik.Northwind.DataAccess.csproj" />
+    <ProjectReference Include="..\Sevindik.Northwind.Entities\Sevindik.Northwind.Entities.csproj" />
+  </ItemGroup>
+
+</Project>
